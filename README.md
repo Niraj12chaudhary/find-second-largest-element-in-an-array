@@ -1,4 +1,4 @@
-# find-second-largest-element-in-an-array
+# find-second-largest-element-in-an-array(efficient way)
 #include<iostream>
 using namespace std;
 int secondlargest(int a[],int n)
